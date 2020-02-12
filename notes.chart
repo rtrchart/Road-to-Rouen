@@ -1,4 +1,4 @@
-﻿[Song]
+[Song]
 {
   Name = "Road to Rouen"
   Artist = "Supergrass"
@@ -91,10 +91,12 @@
   43008 = B 122750
   44160 = B 121000
   44640 = B 122500
-  45120 = B 121000
+  45120 = B 121900
+  46080 = B 121000
   46848 = B 122500
-  48384 = B 122000
-  50112 = B 116000
+  48384 = B 122925
+  49152 = B 118100
+  50112 = B 122600
   50496 = B 118000
   51648 = B 120000
   53184 = B 124000
@@ -274,7 +276,7 @@
   27720 = E "lyric Cut"
   27720 = E "phrase_start"
   27828 = E "lyric up"
-  27924 = E "lyric in"
+  27924 = E "lyric and"
   28020 = E "lyric fear"
   28224 = E "phrase_end"
   28404 = E "lyric Tap"
@@ -290,7 +292,7 @@
   29256 = E "lyric Re-"
   29256 = E "phrase_start"
   29352 = E "lyric trieve"
-  29460 = E "lyric your"
+  29460 = E "lyric the"
   29556 = E "lyric mes-"
   29640 = E "lyric sage,"
   29748 = E "lyric tell"
@@ -314,7 +316,7 @@
   32052 = E "lyric a-"
   32172 = E "lyric way"
   33024 = E "phrase_end"
-  33588 = E "lyric But"
+  33588 = E "lyric And"
   33588 = E "phrase_start"
   33684 = E "lyric it's"
   33780 = E "lyric all"
@@ -328,10 +330,19 @@
   34824 = E "lyric the"
   34956 = E "lyric road"
   35124 = E "lyric to-"
-  35244 = E "lyric day"
+  35244 = E "lyric day\"
   36480 = E "phrase_end"
+  36852 = E "lyric Oh"
+  36852 = E "phrase_start"
   36864 = E "section Bridge 2"
+  37248 = E "phrase_end"
+  41448 = E "lyric Hey"
+  41448 = E "phrase_start"
+  41664 = E "phrase_end"
   42816 = E "section Bridge 2B"
+  46440 = E "lyric Yeah!"
+  46440 = E "phrase_start"
+  46848 = E "phrase_end"
   50688 = E "section Verse 3"
   56832 = E "section Chorus 3"
   62976 = E "section Bass Solo"
