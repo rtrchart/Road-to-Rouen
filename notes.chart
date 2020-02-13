@@ -11,7 +11,7 @@
   Difficulty = 2
   PreviewStart = 0
   PreviewEnd = 0
-  Genre = "Indie Rock"
+  Genre = "Indie rock"
   MediaType = "cd"
   MusicStream = "song.ogg"
 }
